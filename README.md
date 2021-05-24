@@ -35,13 +35,11 @@ I'm more curious in learing new things and highy capable to adapting to new Tech
 
 <a href="https://www.linkedin.com/in/castro-m-s-32660917b/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 
-<a href="https://www.linkedin.com/in/castro-m-s-32660917b/" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /></a>
+<a href="https://twitter.com/castro_zac" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
-<a href="https://twitter.com/castro_zac" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /></a>
+<a href="https://www.instagram.com/castro_zac/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
 
-<a href="https://www.instagram.com/castro_zac/" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" /></a>
-
-<a href="https://medium.com/@castrosid456" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg" /></a>
+<a href="https://medium.com/@castrosid456" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/medium-new.png"/></a>
 
 
 <br />
