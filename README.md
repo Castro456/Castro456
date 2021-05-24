@@ -31,7 +31,9 @@ I'm more curious in learing new things and highy capable to adapting to new Tech
 
 <br />
 
-### Join me with:
+### Join me in:
+
+<a href="https://www.linkedin.com/in/castro-m-s-32660917b/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 
 <a href="https://www.linkedin.com/in/castro-m-s-32660917b/" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /></a>
 
