@@ -5,14 +5,14 @@ I'm more curious in learing new things and highy capable to adapting to new Tech
 -    I'm currently pursuing MSc Software Systems in <a href="https://www.psgcas.ac.in/" target="_blank">PSG CAS</a>
 - 🔭 I'm doing an Intern in <a href="https://geedesk.com/" target="_blank">Geedesk</a>
 - 🌱 I’m currently learning CodeIgniter
-- 👯 Have strong foot in PHP 
+- 👯 Have strong foot on PHP 
 - 🥅 Goal: Placement
 - ⚡ Hobby: Gadgets,Tech, Gaming  
 
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/castro-m-s-32660917b/" target="_blank"><img title="AS - LinkedIn Profile" height="64" width="128" src="https://cdn.svgporn.com/logos/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/castro-m-s-32660917b/" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /></a>
 
 <br />
 
