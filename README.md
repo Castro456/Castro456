@@ -14,7 +14,7 @@ I'm more curious in learing new things and highy capable to adapting to new Tech
 
 <a href="https://www.linkedin.com/in/castro-m-s-32660917b/" target="_blank"><img src="https://img.icons8.com/officel/160/000000/php-logo.png"/></a>
 
-<a href="https://angular.io/" target="_blank"><img title="Angular 10" height="160" width="64" src="https://cdn.svgporn.com/logos/codeigniter.svg" /></a>
+<a href="https://angular.io/" target="_blank"><img title="CodeIgniter" height="300" width="64" src="https://cdn.svgporn.com/logos/codeigniter.svg" /></a>
 
 ### Join me in:
 
