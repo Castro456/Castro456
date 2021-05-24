@@ -12,10 +12,7 @@ I'm more curious in learing new things and highy capable to adapting to new Tech
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" target="_blank" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://www.linkedin.com/in/castro-m-s-32660917b/" target="_blank"><img title="AS - LinkedIn Profile" height="64" width="128" src="https://cdn.svgporn.com/logos/linkedin.svg" /></a>
 
 <br />
 
