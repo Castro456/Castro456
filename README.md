@@ -7,14 +7,8 @@ I'm more curious in learing new things and highy capable to adapting to new Tech
 - 🌱 I’m currently learning CodeIgniter
 - 👯 Have strong foot on PHP 
 - 🥅 Goal: Placement
-- ⚡ Hobby: Gadgets,Tech, Gaming  
+- ⚡ Hobby: Gadgets, Tech, Gaming  
 
-
-### Connect with me:
-
-<a href="https://www.linkedin.com/in/castro-m-s-32660917b/" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /></a>
-
-<br />
 
 ### Languages and Tools:
 
@@ -34,6 +28,18 @@ I'm more curious in learing new things and highy capable to adapting to new Tech
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+
+<br />
+
+### Join me with:
+
+<a href="https://www.linkedin.com/in/castro-m-s-32660917b/" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /></a>
+
+<a href="https://twitter.com/castro_zac" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /></a>
+
+<a href="https://www.instagram.com/castro_zac/" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" /></a>
+
+<a href="https://medium.com/@castrosid456" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg" /></a>
 
 <br />
 <br />
