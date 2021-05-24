@@ -1,19 +1,20 @@
-### Yoo, It's Castro here! You can also call me as Zac 
+### Yoo🙌, It's Castro here! You can also call me as Zac 
+<br />
 
 I'm more curious in learing new things and highy capable of adapting to new Technologies
 <br />
 
-### What am I Doing?
+### What am I Doing 🤔?
 - I'm currently pursuing MSc Software Systems in <a href="https://www.psgcas.ac.in/" target="_blank">PSG CAS</a>
 - And also doing an Intern in <a href="https://geedesk.com/" target="_blank">Geedesk</a>
 <br />
 
-### What am I Learning?
+### What am I Learning 📖?
 - I’m currently learning CodeIgniter
 - Practicing on PHP to have strong foot 
 <br />
 
-> Motivation gets you started but only Dicipline gets you further
+> Motivation gets you started🔥 but only Dicipline gets you further👊
 <br />
 
 ### Languages and Frameworks known:
