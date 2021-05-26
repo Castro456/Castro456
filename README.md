@@ -1,7 +1,7 @@
-### Yoo🙌, It's Castro here! You can also call me as Zac 
+<h1 align=center> Yoo🙌, It's Castro here! You can also call me as Zac </h1> 
 <br />
 
-I'm more curious in learing new things and highy capable of adapting to new Technologies
+<h2 align=center> I'm more curious in learing new things and highy capable of adapting to new Technologies</h2>
 <br />
 
 ### What am I Doing 🤔?
