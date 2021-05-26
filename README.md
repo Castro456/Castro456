@@ -25,7 +25,7 @@
 
 <h3 align=center> Join me in: 
 <br />
-<a href="https://www.linkedin.com/in/castro-m-s-32660917b/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a><a href="https://twitter.com/castro_zac" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a><a href="https://www.instagram.com/castro_zac/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a><a href="https://medium.com/@castrosid456" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/medium-new.png"/></a>
+<a href="https://www.linkedin.com/in/castro-m-s-32660917b/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a><a href="https://twitter.com/castro_zac" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a><a href="https://www.instagram.com/castro_zac/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a><a href="https://medium.com/@castrozac" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/medium-new.png"/></a>
 </h3>
 <br />
 <br />
