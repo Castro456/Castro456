@@ -10,7 +10,7 @@
 <br />
 
 ### What am I Learning 📖?
-[![Repos Badge](https://badges.pufler.dev/repos/Castro456)](https://badges.pufler.dev)
+  Repositories [![Repos Badge](https://badges.pufler.dev/repos/Castro456)](https://badges.pufler.dev)
 - I’m currently learning CodeIgniter
 - Practicing on PHP to have strong foot 
 <br />
