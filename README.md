@@ -22,9 +22,9 @@
 <a href="https://www.php.net" target="_blank"><img title="PHP" src="https://img.icons8.com/officel/150/000000/php-logo.png"/></a><a href="https://www.codeigniter.com" target="_blank"><img title="CodeIgniter" height="150" width="150" src="https://cdn.svgporn.com/logos/codeigniter.svg" /></a><a href="https://www.javascript.com" target="_blank"><img title="JavaScript" src="https://img.icons8.com/color/150/000000/javascript.png"/></a><a href="https://html.com" target="_blank"><img title="HTML" src="https://img.icons8.com/color/150/000000/html-5--v1.png"/></a><a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img title="CSS" src="https://img.icons8.com/color/150/000000/css3.png"/></a><a href="https://www.mysql.com" target="_blank"><img title="MySQL" src="https://img.icons8.com/color/150/000000/mysql-logo.png"/></a>
 <br />
 
-### Join me in:
+<h3 align=center> Join me in: 
 <br />
 <a href="https://www.linkedin.com/in/castro-m-s-32660917b/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a><a href="https://twitter.com/castro_zac" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a><a href="https://www.instagram.com/castro_zac/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a><a href="https://medium.com/@castrosid456" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/medium-new.png"/></a>
-
+</h3>
 <br />
 <br />
