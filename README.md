@@ -16,7 +16,7 @@
 - Practicing on PHP to have strong foot
   <br />
 
-[![Repos Badge](https://badges.pufler.dev/repos/Castro456)](https://badges.pufler.dev)
+<!-- [![Repos Badge](https://badges.pufler.dev/repos/Castro456)](https://badges.pufler.dev) -->
 <br />
 
 > Motivation gets you started🔥 but only Dicipline gets you further👊
