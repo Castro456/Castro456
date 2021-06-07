@@ -5,20 +5,25 @@
 <br />
 
 ### What am I Doing 🤔?
+
 - I'm currently pursuing MSc Software Systems in <a href="https://www.psgcas.ac.in/" target="_blank">PSG CAS</a>
 - And also doing an Intern in <a href="https://geedesk.com/" target="_blank">Geedesk</a>
-<br />
+  <br />
 
 ### What am I Learning 📖?
-* [![Repos Badge](https://badges.pufler.dev/repos/Castro456)](https://badges.pufler.dev)
+
 - I’m currently learning CodeIgniter
-- Practicing on PHP to have strong foot 
+- Practicing on PHP to have strong foot
+  <br />
+
+[![Repos Badge](https://badges.pufler.dev/repos/Castro456)](https://badges.pufler.dev)
 <br />
 
 > Motivation gets you started🔥 but only Dicipline gets you further👊
-<br />
+> <br />
 
 ### Languages and Frameworks known:
+
 <br />
 <a href="https://www.php.net" target="_blank"><img title="PHP" src="https://img.icons8.com/officel/150/000000/php-logo.png"/></a><a href="https://www.codeigniter.com" target="_blank"><img title="CodeIgniter" height="150" width="150" src="https://cdn.svgporn.com/logos/codeigniter.svg" /></a><a href="https://www.javascript.com" target="_blank"><img title="JavaScript" src="https://img.icons8.com/color/150/000000/javascript.png"/></a><a href="https://html.com" target="_blank"><img title="HTML" src="https://img.icons8.com/color/150/000000/html-5--v1.png"/></a><a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img title="CSS" src="https://img.icons8.com/color/150/000000/css3.png"/></a><a href="https://www.mysql.com" target="_blank"><img title="MySQL" src="https://img.icons8.com/color/150/000000/mysql-logo.png"/></a>
 <br />
