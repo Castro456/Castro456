@@ -22,7 +22,7 @@
 
 ### Currently working Project
 
-[![Updated Badge](https://badges.pufler.dev/updated/castro456/CodeIgniter-to-do)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/Castro456/CodeIgniter-to-do)](https://badges.pufler.dev)
 <br />
 
 > Motivation gets you started🔥 but only Dicipline gets you further👊
