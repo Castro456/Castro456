@@ -20,7 +20,7 @@
 <br />
 
 
-### Currently working Project
+### Currently Working On:
 
 [![Updated Badge](https://badges.pufler.dev/updated/Castro456/Java-Practice)](https://badges.pufler.dev)
 <br />
