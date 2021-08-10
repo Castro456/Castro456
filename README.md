@@ -16,14 +16,14 @@
 - Practicing on PHP to have strong foot
   <br />
 
-<!---[![Repos Badge](https://badges.pufler.dev/repos/Castro456)](https://badges.pufler.dev)
-<br /> --->
+[![Repos Badge](https://badges.pufler.dev/repos/Castro456)](https://badges.pufler.dev)
+<br /> 
 
 
-### Currently Working On:
+<!---### Currently Working On:
 
 [![Updated Badge](https://badges.pufler.dev/updated/Castro456/Java-Practice)](https://badges.pufler.dev)
-<br />
+<br />--->
 
 > Motivation gets you started🔥 but only Dicipline gets you further👊
 > <br />
