@@ -29,10 +29,12 @@
 > Motivation gets you started🔥 but only Dicipline gets you further👊
 > <br />
 
+
+
 ### Languages and Frameworks known:
 
 <br />
-<a href="https://www.php.net" target="_blank"><img title="PHP" src="https://img.icons8.com/officel/150/000000/php-logo.png"/></a><a href="https://www.codeigniter.com" target="_blank"><img title="CodeIgniter" height="150" width="150" src="https://cdn.svgporn.com/logos/codeigniter.svg" /></a><a href="https://www.javascript.com" target="_blank"><img title="JavaScript" src="https://img.icons8.com/color/150/000000/javascript.png"/></a><a href="https://html.com" target="_blank"><img title="HTML" src="https://img.icons8.com/color/150/000000/html-5--v1.png"/></a><a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img title="CSS" src="https://img.icons8.com/color/150/000000/css3.png"/></a><a href="https://www.mysql.com" target="_blank"><img title="MySQL" src="https://img.icons8.com/color/150/000000/mysql-logo.png"/></a>
+<a href="https://www.php.net" target="_blank"><img title="PHP"src="https://img.icons8.com/officel/80/000000/php-logo.png"/></a><a href="https://www.codeigniter.com" target="_blank"><img title="CodeIgniter" height="150" width="150" src="https://cdn.svgporn.com/logos/codeigniter.svg" /></a><a href="https://www.javascript.com" target="_blank"><img title="JavaScript" src="https://img.icons8.com/color/150/000000/javascript.png"/></a><a href="https://html.com" target="_blank"><img title="HTML" src="https://img.icons8.com/color/150/000000/html-5--v1.png"/></a><a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img title="CSS" src="https://img.icons8.com/color/150/000000/css3.png"/></a><a href="https://www.mysql.com" target="_blank"><img title="MySQL" src="https://img.icons8.com/color/150/000000/mysql-logo.png"/></a>
 <br />
 
 <h3 align=center> Join me in: 
