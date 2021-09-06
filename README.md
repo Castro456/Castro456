@@ -20,10 +20,10 @@
 <br /> 
 
 
-<!---### Currently Working On:
-
-[![Updated Badge](https://badges.pufler.dev/updated/Castro456/Java-Practice)](https://badges.pufler.dev)
-<br />--->
+### Currently Developing Project:
+## To-Do List Application
+[![Updated Badge](https://badges.pufler.dev/updated/Castro456/CodeIgniter-to-do)](https://badges.pufler.dev)
+<br />
 
 > Motivation gets you started🔥 but only Dicipline gets you further👊
 > <br />
