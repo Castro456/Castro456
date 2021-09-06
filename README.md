@@ -29,7 +29,7 @@
 
 > Motivation gets you started🔥 but only Dicipline gets you further👊
 <br />
-<br />
+
 
 ### Languages and Frameworks known:
 <br />
