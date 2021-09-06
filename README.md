@@ -7,13 +7,13 @@
 ### What am I Doing 🤔?
 
 - I'm currently pursuing MSc Software Systems in <a href="https://www.psgcas.ac.in/" target="_blank">PSG CAS</a>
-- And also doing an Intern in <a href="https://geedesk.com/" target="_blank">Geedesk</a>
+- And working as an Part-time employee in <a href="https://geedesk.com/" target="_blank">Geedesk</a>
   <br />
 
 ### What am I Learning 📖?
 
-- I’m currently learning CodeIgniter
-- Practicing on PHP to have strong foot
+- Keeping a track record on learning CodeIgniter.
+- Working on RESTful API's.
   <br />
 
 [![Repos Badge](https://badges.pufler.dev/repos/Castro456)](https://badges.pufler.dev)
@@ -21,7 +21,8 @@
 
 
 ### Currently Developing Project:
-## To-Do List Application
+
+#### To-Do List Application
 [![Updated Badge](https://badges.pufler.dev/updated/Castro456/CodeIgniter-to-do)](https://badges.pufler.dev)
 <br />
 
