@@ -2,19 +2,16 @@
 <br />
 <h2 align=center> I'm more curious in learning new things and highly capable of adapting to new Technologies</h2>
 <br />
-<br />
 
 ### What am I Doing :sunglasses: ?
 - I'm currently pursuing MSc Software Systems final year in <a href="https://www.psgcas.ac.in/" target="_blank">PSG CAS</a>
 - And working as an Intern in <a href="https://geedesk.com/" target="_blank">Geedesk</a>
-<br />
 <br />
 
 ### What am I Learning :books: ?
 - Keeping a track record on learning CodeIgniter.
 - About to start learn on Vue.js.
 <br />
-<br /> 
 
 ### Repositories :floppy_disk: 
 
@@ -23,8 +20,6 @@
 <br />
 
 ### Projects :computer:
-<br />
-
 #### To-Do List Application 
 <a href="https://github.com/Castro456/CodeIgniter-to-do">
 <img src="https://img.shields.io/badge/To--Do%20List-php-blue"> </a>
