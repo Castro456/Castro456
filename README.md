@@ -19,7 +19,7 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Castro456&exclude_repo=Sample&layout=compact)](https://github.com/Castro456) <img alt="GIF" src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="250" height="164" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Castro456&exclude_repo=Sample&layout=compact)](https://github.com/Castro456) <img align="right" alt="GIF" src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="250" height="164" />
 
 [![Castro github stats](https://github-readme-stats.vercel.app/api?username=Castro456)](https://github.com/Castro456/) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Castro456&theme=swift)](https://github.com/Castro456/)
 
