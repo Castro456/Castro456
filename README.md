@@ -20,12 +20,12 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Castro456&exclude_repo=Sample&layout=compact)](https://github.com/Castro456) <img alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="164" />
+[![Castro github stats](https://github-readme-stats.vercel.app/api?username=Castro456)](https://github.com/Castro456/) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Castro456&theme=swift)](https://github.com/Castro456/)
  <!-- <img alt="GIF" src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="250" height="167" /> -->
 <!-- https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif -->
 <!-- https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif -->
 <!-- https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif -->
 
-[![Castro github stats](https://github-readme-stats.vercel.app/api?username=Castro456)](https://github.com/Castro456/) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Castro456&theme=swift)](https://github.com/Castro456/)
 
 <br />
 
