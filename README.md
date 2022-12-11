@@ -4,13 +4,13 @@
 <!-- <img src="https://komarev.com/ghpvc/?username=Castro456&color=brightgreen" alt="Castro456"/> -->
 
 ### Bio
-- I'm currently working at <a href="https://geedesk.com/" target="_blank">Geedesk</a>
-- Completed MSc Software Systems at <a href="https://www.psgcas.ac.in/" target="_blank">PSG CAS</a>
-- Learning <b>PHP</b> to have strong foot
+- :office: I'm currently working at <a href="https://geedesk.com/" target="_blank">Geedesk</a>
+- :man_student: Completed MSc Software Systems at <a href="https://www.psgcas.ac.in/" target="_blank">PSG CAS</a>
+- :muscle: Learning <b>PHP</b> to have strong foot
 
 ### Now
-- Interest in Vue.js and Postgres
-- Looking for contributing to PHP based open source projects 
+- :fire: Interest in Web applications
+- :spiral_calendar: Looking for contributing to PHP based open source projects 
 
 <br />
 
@@ -19,7 +19,7 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Castro456&exclude_repo=Sample&layout=compact)](https://github.com/Castro456) <img align="right" alt="GIF" src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="280" height="164" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Castro456&exclude_repo=Sample&layout=compact)](https://github.com/Castro456) <img align="right" alt="GIF" src="giphy-unscreen.gif" width="330" height="164" alt="info"/>
 
 [![Castro github stats](https://github-readme-stats.vercel.app/api?username=Castro456)](https://github.com/Castro456/) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Castro456&theme=swift)](https://github.com/Castro456/)
 
