@@ -10,7 +10,7 @@
 
 ### Now
 - :fire: Interest in Web applications
-- :spiral_calendar: Looking for contributing to PHP based open source projects 
+- :handshake: Looking for contributing to PHP based open source projects 
 
 <br />
 
@@ -19,7 +19,7 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Castro456&exclude_repo=Sample&layout=compact)](https://github.com/Castro456) <img align="right" alt="GIF" src="giphy-unscreen.gif" width="330" height="164" alt="info"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Castro456&exclude_repo=Sample&layout=compact)](https://github.com/Castro456) <img align="right" alt="GIF" src="ghibli.gif" width="150" height="169" alt="info"/>
 
 [![Castro github stats](https://github-readme-stats.vercel.app/api?username=Castro456)](https://github.com/Castro456/) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Castro456&theme=swift)](https://github.com/Castro456/)
 
